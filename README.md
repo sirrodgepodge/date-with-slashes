@@ -12,5 +12,8 @@ console.log(todaySlashified); // it's May 2, 2016 so this will log '5/2/16'
 const todaySlashifiedFour = dateWithSlashes(new Date(), true);
 
 console.log(todaySlashifiedFour); // it's May 2, 2016 so this will log '5/2/2016'
-
 ```
+[![NPM][nodei-image]][nodei-url]
+
+[nodei-image]: https://nodei.co/npm/date-with-slashes.png?downloads=true&downloadRank=true&stars=true
+[nodei-url]: https://www.npmjs.com/package/date-with-slashes
