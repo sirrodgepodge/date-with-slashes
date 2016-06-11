@@ -1,0 +1,19 @@
+{
+  "name": "date-with-slashes",
+  "version": "1.0.1",
+  "description": "Utility function for converting javascript date object to string in the format 'MM/DD/YY' or 'MM/DD/YYYY'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirrodgepodge/date-with-slashes.git"
+  },
+  "author": "sirRodgePodge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirrodgepodge/date-with-slashes/issues"
+  },
+  "homepage": "https://github.com/sirrodgepodge/date-with-slashes#readme"
+}
