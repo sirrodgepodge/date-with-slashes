@@ -1,6 +1,6 @@
 {
   "name": "date-with-slashes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility function for converting javascript date object to string in the format 'MM/DD/YY' or 'MM/DD/YYYY'",
   "main": "index.js",
   "scripts": {
